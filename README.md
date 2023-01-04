@@ -1,4 +1,4 @@
-# termux-ydl By <a href="https://github.com/NRGetRekt"> NRGetRekt </a>
+# termux-ydl
 
 
 
