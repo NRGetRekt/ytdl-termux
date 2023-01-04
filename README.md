@@ -25,7 +25,7 @@ termux-setup-storage
 ### STEP3 : copy and run this command:
 
 ```shell
-clear; curl -s -L | bash
+clear; curl -s -L https://raw.githubusercontent.com/NRGetRekt/ytdl-termux/main/termux-ydl.sh | bash
 ```
 
 ##### (and wait the process to finish.)
